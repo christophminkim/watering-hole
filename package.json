@@ -1,0 +1,24 @@
+{
+  "name": "watering-hole",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "start": "node --watch src/server/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christophminkim/watering-hole.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/christophminkim/watering-hole/issues"
+  },
+  "homepage": "https://github.com/christophminkim/watering-hole#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "react": "^18.2.0"
+  }
+}
